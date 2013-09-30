@@ -16,3 +16,5 @@ Aradhana Shukla
 My repository
 
 Date - 30th September 2013
+
+Day = Monday
